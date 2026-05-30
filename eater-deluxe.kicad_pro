@@ -416,7 +416,7 @@
         "uuid": "fb8dfef4-61ed-4530-987d-e2bf0fac227d"
       }
     ],
-    "used_designators": "U1-7",
+    "used_designators": "R2,D1,C6-17,#PWR1-2,#PWR9,#PWR11-24,J1-2",
     "variants": []
   },
   "sheets": [
@@ -427,7 +427,9 @@
   ],
   "text_variables": {
     "COMMENT1": "based on https://eater.net/6502",
-    "COMMENT2": "https://redlucy404.de",
+    "COMMENT2": "https://redlucy404.de/",
+    "COMMENT3": "https://starlightnet.work/",
+    "COMMENT4": "https://www.codeforniederrhein.de/",
     "ISSUE_DATE": "${CURRENT_DATE}",
     "REVISION": "1.0",
     "TITLE": "\"Eater-Deluxe\" 6502-based personal computer"
