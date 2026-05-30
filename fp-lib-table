@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "AT28c256") (type "KiCad") (uri "${KIPRJMOD}/components/AT28c256/footprints.pretty") (options "") (descr ""))
+	(lib (name "CD74HC00E") (type "KiCad") (uri "${KIPRJMOD}/components/CD74HC00E/footprints.pretty") (options "") (descr ""))
+	(lib (name "MXO45_3C_1M000000") (type "KiCad") (uri "${KIPRJMOD}/components/MXO45_3C_1M000000/MXO45_3C_1M000000.pretty") (options "") (descr ""))
+)
