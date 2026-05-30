@@ -223,7 +223,7 @@
       "label_dangling": "error",
       "label_multiple_wires": "warning",
       "lib_symbol_issues": "warning",
-      "lib_symbol_mismatch": "warning",
+      "lib_symbol_mismatch": "ignore",
       "missing_bidi_pin": "warning",
       "missing_input_pin": "warning",
       "missing_power_pin": "error",
@@ -375,7 +375,36 @@
       "sort_asc": true,
       "sort_field": "Reference"
     },
-    "bus_aliases": {},
+    "bus_aliases": {
+      "ADRESSLINE_BUS": [
+        "a0",
+        "a1",
+        "a2",
+        "a3",
+        "a4",
+        "a5",
+        "a6",
+        "a7",
+        "a8",
+        "a9",
+        "a10",
+        "a11",
+        "a12",
+        "a13",
+        "a14",
+        "a15"
+      ],
+      "DATALINE_BUS": [
+        "d0",
+        "d1",
+        "d2",
+        "d3",
+        "d4",
+        "d5",
+        "d6",
+        "d7"
+      ]
+    },
     "connection_grid_size": 50.0,
     "drawing": {
       "dashed_lines_dash_length_ratio": 12.0,
@@ -416,7 +445,7 @@
         "uuid": "fb8dfef4-61ed-4530-987d-e2bf0fac227d"
       }
     ],
-    "used_designators": "R2,D1,C6-17,#PWR1-2,#PWR9,#PWR11-24,J1-2",
+    "used_designators": "R3,#FLG1,RV1,Y1,#PWR3-6,#PWR25,J3,C18-20,D2",
     "variants": []
   },
   "sheets": [
