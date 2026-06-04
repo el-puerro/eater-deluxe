@@ -10,7 +10,6 @@
 		(rev "${REVISION}")
 		(comment 1 "${COMMENT1}")
 		(comment 2 "${COMMENT2}")
-		(comment 3 "${COMMENT3}")
 		(comment 4 "${COMMENT4}")
 	)
 	(lib_symbols
