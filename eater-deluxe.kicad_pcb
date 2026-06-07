@@ -22225,7 +22225,7 @@
 			)
 			(justify right bottom)
 		)
-		(render_cache "\"Eater-Deluxe\" 6502-based personal computer\nRevision 1.0\n2026-06-04\nbased on https://eater.net/6502"
+		(render_cache "\"Eater-Deluxe\" 6502-based personal computer\nRevision 1.0\n2026-06-07\nbased on https://eater.net/6502"
 			0
 			(polygon
 				(pts
@@ -22763,10 +22763,9 @@
 			)
 			(polygon
 				(pts
-					(xy 311.886654 194.737264) (xy 312.838591 194.737264) (xy 312.838591 195.3) (xy 313.104571 195.3)
-					(xy 313.104571 194.737264) (xy 313.405601 194.737264) (xy 313.405601 194.513293) (xy 313.104571 194.513293)
-					(xy 313.104571 193.986828) (xy 312.838591 193.986828) (xy 312.838591 194.523185) (xy 312.156787 194.523185)
-					(xy 312.895988 193.363886) (xy 312.684596 193.221004) (xy 311.858688 194.528681)
+					(xy 312.322017 195.3) (xy 312.586654 195.3) (xy 312.586654 194.82165) (xy 313.321581 193.48613)
+					(xy 313.241836 193.252267) (xy 311.939777 193.252267) (xy 311.911811 193.481978) (xy 313.027635 193.481978)
+					(xy 312.322017 194.759979)
 				)
 			)
 			(polygon
@@ -23067,6 +23066,84 @@
 		(hide no)
 		(knockout yes)
 		(uuid "04b85d66-8f61-4409-805a-2486b7e3dd95")
+	)
+	(dimension
+		(type orthogonal)
+		(layer "F.Fab")
+		(uuid "425daaef-8442-4b6f-b4c6-5048e4719a22")
+		(pts
+			(xy 109.754315 68.82) (xy 109.754315 218.32)
+		)
+		(height 0)
+		(orientation 1)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "149.5"
+			(at 103.754315 143.57 90)
+			(layer "F.Fab")
+			(uuid "425daaef-8442-4b6f-b4c6-5048e4719a22")
+			(effects
+				(font
+					(size 5 5)
+					(thickness 1)
+					(bold yes)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "F.Fab")
+		(uuid "f625b864-834b-4ce3-a360-d59863b656a9")
+		(pts
+			(xy 109.754315 218.32) (xy 323.934315 218.32)
+		)
+		(height 0)
+		(orientation 0)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 0)
+			(precision 4)
+			(suppress_zeroes yes)
+		)
+		(style
+			(thickness 0.1)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "214.18"
+			(at 216.844315 212.32 0)
+			(layer "F.Fab")
+			(uuid "f625b864-834b-4ce3-a360-d59863b656a9")
+			(effects
+				(font
+					(size 5 5)
+					(thickness 1)
+					(bold yes)
+				)
+			)
+		)
 	)
 	(segment
 		(start 126.434315 175.282793)
