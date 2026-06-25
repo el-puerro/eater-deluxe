@@ -10,7 +10,7 @@ It is compatible with all software running on the breadboard 6502 computer.
 
 ![eater-deluxe running wozmon](readme-images/eater-deluxe-running-wozmon.jpg)
 
-![eater-deluxe running MS BASIC](readme-images/msbasic.jpg)
+![eater-deluxe running MS BASIC](readme-images/msbasic.jpeg)
 
 
 ## Dependencies for the KiCAD Project
